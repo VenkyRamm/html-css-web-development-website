@@ -1,0 +1,33 @@
+body{background-color:#FFE6E6;}
+
+.style-script-regular {
+    font-family: "Style Script", cursive;
+    font-weight: 400;
+    font-style: bold;
+  }
+
+.permanent-marker-regular {
+    font-family: "Permanent Marker", cursive;
+    font-weight: 500;
+    font-style: bold italic;
+    font-size: 4rem;
+  }
+  
+  
+  
+  
+h1{color: #AD88C6; font-size: 5rem;}
+.main{color: #7469B6;}
+.side{color: #7AB2B2;}
+h2{font-size: 4rem; text-align: center;}
+ul{font-size: 2rem; color:#C39898;}
+img{float: right;}
+.top{color:#B5C18E;}
+p.permanent-marker-regular{margin-top:40px;color: goldenrod;}
+.sp-offer{color:#640D6B}
+img.hurry{float: left; margin-right: 50px;}
+p{margin-top:350px;color:darkslateblue; font-size: 2rem;}
+
+
+
+  
